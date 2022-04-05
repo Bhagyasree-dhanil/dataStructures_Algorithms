@@ -20,7 +20,7 @@ Rules for bigO notations
 size(arr) --> 100  --> 0.22ms
           --> 10000 --> 3 ms
 
-size of arary and propotional and hence linear relation
+size of array and proportional and hence linear relation
 
 t=an+b
 

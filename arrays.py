@@ -170,7 +170,7 @@ stock_price.remove(280)   # arr.insert(data)
 order of complexity of remval of data  is O(n).
 '''
 
-#====================='code basics excercises'=======================================#
+# ====================='code basics exercises'=======================================#
 
 '''
 

@@ -121,7 +121,7 @@ if __name__=="__main__":
    
 
 
-#--------------------Excercise---------------------------------------#
+#--------------------Exercise---------------------------------------#
 
 '''
 1.write a fuction in python that can reverse a string  using stack data structure.

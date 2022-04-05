@@ -3,15 +3,15 @@
 # linkedlist?
 
 '''
-like arrays,Linked list is a linear data structure.unlike arrays, linkedlist elements are
+like arrays,Linked list is a linear data structure. Unlike arrays, linkedlist elements are
 not stored at a contiguous location,they are allocated at random memory space and are
 linked using pointers which store memory location of another data. 
 
-python donit have a standard libray for linkedlist.
+python don't have a standard libray for linkedlist.
 
 why linked list?
 
-In arrays insertion is not efficent since it involve swaping and copying into new
+In arrays insertion is not efficient since it involve swapping and copying into new
 memory locations(python lists are dynamic array)
 
 
@@ -185,14 +185,14 @@ if __name__=="__main__":
      
 
 
-#-----------------------------Excercise 1--------------------------------------------#
+#-----------------------------Exercise 1--------------------------------------------#
 
 '''
 1. add two methods
 
 def insert_after_value(self,data_after,data_to_insert)
 
-    search for first occurence of the data_after in the linkedlist
+    search for first occurrence of the data_after in the linkedlist
     now insert data_to_insert after data_after node.
 
 def remove by value(self, data)
@@ -216,7 +216,7 @@ ll.remove_by_value("grapes")
 
 
 '''
-#-----------------------------------Excercise 2---------------------------#
+#-----------------------------------Exercise 2---------------------------#
 '''
 implement double link list. It has previous reference and next reference as well.
 so that you can iterate in forward and backward direction.
